@@ -1,6 +1,6 @@
 
 Privacy Policy of SuitIAPro
-Last updated: [Today's Date]
+
 Thank you for using SuitIAPro. This policy explains how we handle your device permissions and data. Our core principle is privacy: all artificial intelligence processing takes place directly on your device. We do not collect, transmit, or store your photos, audio, or documents on any external server.
 1. Information We Process and Device Permissions
 SuitIAPro requests access to certain features of your device solely to provide you with its local AI functionalities. Below, we detail the specific use of each permission:
